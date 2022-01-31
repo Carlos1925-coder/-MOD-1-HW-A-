@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+div{
+  width: 50%;
+  height: 100vh;
+  background: lightgrey;
+  margin: 0 auto;
+}
+body{
+  font-family: monospace;
+}
+div{
+  padding: 10px 50px;
+}
+div p {
+  padding: 10px 0 10px;
+  font-size: 18px;
+  line-height: 200%;
+}
+div h1 {
+  text-align: center;
+  padding-bottom: 15px;
+}
